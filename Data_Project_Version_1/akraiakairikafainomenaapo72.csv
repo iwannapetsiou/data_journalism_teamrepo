@@ -1,0 +1,289 @@
+country,disaster_type,disaster_subtype,start_year
+Spain,Flood,Flood (General),1972
+Italy,Storm,Storm (General),1973
+Spain,Storm,Storm (General),1973
+Portugal,Storm,Storm (General),1973
+Italy,Storm,Storm (General),1973
+Italy,Storm,Storm (General),1973
+Spain,Flood,Flash flood,1973
+Italy,Flood,Flood (General),1977
+Italy,Flood,Flood (General),1977
+Greece,Flood,Flood (General),1977
+Spain,Flood,Riverine flood,1978
+Italy,Storm,Tornado,1978
+Portugal,Flood,Flood (General),1979
+Portugal,Flood,Flood (General),1979
+Greece,Flood,Flood (General),1979
+Spain,Flood,Flash flood,1979
+Portugal,Flood,Flood (General),1981
+Spain,Flood,Flood (General),1982
+Spain,Flood,Flood (General),1982
+Italy,Wildfire,Forest fire,1983
+Spain,Flood,Flood (General),1983
+Spain,Flood,Flood (General),1983
+Portugal,Flood,Flood (General),1983
+Greece,Wildfire,Forest fire,1983
+Portugal,Wildfire,Forest fire,1983
+Spain,Storm,Storm (General),1984
+Greece,Wildfire,Forest fire,1984
+Greece,Wildfire,"Land fire (Brush, Bush, Pasture)",1984
+Spain,Wildfire,Forest fire,1984
+Spain,Storm,Tropical cyclone,1984
+Italy,Flood,Flash flood,1985
+Spain,Wildfire,"Land fire (Brush, Bush, Pasture)",1985
+Greece,Wildfire,Forest fire,1985
+Greece,Extreme temperature,Heat wave,1985
+Portugal,Wildfire,Forest fire,1985
+Spain,Extreme temperature,Cold wave,1985
+Spain,Wildfire,Forest fire,1985
+Italy,Flood,Flood (General),1986
+Portugal,Wildfire,Forest fire,1986
+Greece,Wildfire,Forest fire,1987
+Spain,Storm,Hail,1987
+Spain,Flood,Riverine flood,1987
+Italy,Flood,Flood (General),1987
+Greece,Storm,Storm (General),1987
+Italy,Storm,Storm (General),1987
+Italy,Storm,Storm (General),1987
+Italy,Storm,Storm (General),1987
+Greece,Extreme temperature,Heat wave,1987
+Greece,Extreme temperature,Heat wave,1988
+Spain,Storm,Storm (General),1989
+Spain,Storm,Storm (General),1989
+Spain,Flood,Flood (General),1989
+Portugal,Storm,Storm (General),1989
+Spain,Storm,Storm (General),1990
+Italy,Wildfire,Forest fire,1990
+Italy,Wildfire,Forest fire,1990
+Spain,Storm,Storm (General),1990
+Greece,Storm,Storm (General),1990
+Italy,Storm,Storm (General),1990
+Greece,Extreme temperature,Cold wave,1991
+Spain,Wildfire,"Land fire (Brush, Bush, Pasture)",1991
+Portugal,Wildfire,Forest fire,1991
+Italy,Flood,Riverine flood,1992
+Italy,Flood,Riverine flood,1992
+Italy,Storm,Storm (General),1993
+Spain,Storm,Storm (General),1994
+Spain,Wildfire,Forest fire,1994
+Spain,Wildfire,Forest fire,1994
+Italy,Storm,Tornado,1994
+Italy,Wildfire,Forest fire,1994
+Spain,Flood,Flood (General),1994
+Greece,Flood,Riverine flood,1994
+Italy,Flood,Riverine flood,1994
+Spain,Extreme temperature,Heat wave,1995
+Greece,Wildfire,Forest fire,1995
+Spain,Extreme temperature,Cold wave,1995
+Portugal,Flood,Flash flood,1996
+Italy,Flood,Flash flood,1996
+Italy,Flood,Flood (General),1996
+Spain,Flood,Riverine flood,1996
+Portugal,Flood,Riverine flood,1996
+Spain,Flood,Riverine flood,1997
+Portugal,Storm,Storm (General),1997
+Spain,Storm,Storm (General),1997
+Italy,Storm,Storm (General),1997
+Greece,Flood,Flood (General),1997
+Greece,Flood,Flood (General),1998
+Italy,Extreme temperature,Heat wave,1998
+Greece,Wildfire,"Land fire (Brush, Bush, Pasture)",1998
+Spain,Wildfire,Forest fire,1998
+Spain,Storm,Extra-tropical storm,1998
+Spain,Storm,Extra-tropical storm,1999
+Italy,Wildfire,Forest fire,1999
+Spain,Flood,Flood (General),2000
+Greece,Extreme temperature,Heat wave,2000
+Greece,Wildfire,Forest fire,2000
+Greece,Wildfire,Forest fire,2000
+Italy,Flood,Riverine flood,2000
+Spain,Wildfire,Forest fire,2000
+Italy,Flood,Flood (General),2000
+Italy,Flood,Flash flood,2000
+Spain,Flood,Flash flood,2000
+Greece,Flood,Flood (General),2000
+Greece,Flood,Flood (General),2000
+Italy,Flood,Flood (General),2000
+Portugal,Storm,Storm (General),2000
+Spain,Storm,Storm (General),2000
+Spain,Storm,Storm (General),2000
+Italy,Flood,Riverine flood,2001
+Greece,Flood,Flood (General),2001
+Portugal,Flood,Riverine flood,2001
+Italy,Storm,Lightning/Thunderstorms,2001
+Italy,Flood,Flash flood,2001
+Portugal,Wildfire,Forest fire,2001
+Spain,Storm,Storm (General),2001
+Greece,Flood,Riverine flood,2001
+Greece,Storm,Storm (General),2002
+Italy,Flood,Flash flood,2002
+Italy,Flood,Flood (General),2002
+Greece,Flood,Riverine flood,2002
+Italy,Flood,Riverine flood,2002
+Greece,Flood,Riverine flood,2002
+Greece,Flood,Flood (General),2002
+Greece,Flood,Riverine flood,2002
+Portugal,Flood,Riverine flood,2002
+Spain,Flood,Flash flood,2002
+Portugal,Flood,Riverine flood,2003
+Italy,Flood,Riverine flood,2003
+Greece,Flood,Riverine flood,2003
+Greece,Flood,Riverine flood,2003
+Greece,Flood,Riverine flood,2003
+Spain,Wildfire,Forest fire,2003
+Portugal,Wildfire,Forest fire,2003
+Spain,Extreme temperature,Heat wave,2003
+Italy,Extreme temperature,Heat wave,2003
+Portugal,Extreme temperature,Heat wave,2003
+Italy,Flood,Riverine flood,2003
+Greece,Storm,Storm (General),2004
+Spain,Flood,Riverine flood,2004
+Spain,Extreme temperature,Heat wave,2004
+Spain,Wildfire,Forest fire,2004
+Portugal,Wildfire,Forest fire,2004
+Italy,Storm,Severe weather,2004
+Greece,Storm,Storm (General),2004
+Portugal,Wildfire,Forest fire,2005
+Spain,Wildfire,Forest fire,2005
+Spain,Extreme temperature,Severe winter conditions,2005
+Italy,Extreme temperature,Severe winter conditions,2005
+Portugal,Extreme temperature,Heat wave,2005
+Italy,Storm,Storm (General),2006
+Spain,Extreme temperature,Heat wave,2006
+Portugal,Extreme temperature,Heat wave,2006
+Spain,Wildfire,Forest fire,2006
+Greece,Flood,Riverine flood,2006
+Greece,Storm,Storm (General),2006
+Greece,Flood,Riverine flood,2006
+Spain,Flood,Riverine flood,2006
+Portugal,Flood,Riverine flood,2006
+Spain,Storm,Blizzard/Winter storm,2007
+Spain,Flood,Riverine flood,2007
+Spain,Flood,Riverine flood,2007
+Greece,Extreme temperature,Heat wave,2007
+Italy,Extreme temperature,Heat wave,2007
+Italy,Wildfire,Forest fire,2007
+Greece,Wildfire,Forest fire,2007
+Greece,Wildfire,Forest fire,2007
+Spain,Flood,Riverine flood,2007
+Greece,Flood,Riverine flood,2007
+Portugal,Flood,Riverine flood,2008
+Italy,Flood,Riverine flood,2008
+Italy,Flood,Flood (General),2008
+Italy,Flood,Riverine flood,2008
+Portugal,Extreme temperature,Cold wave,2009
+Spain,Storm,Extra-tropical storm,2009
+Italy,Storm,Extra-tropical storm,2009
+Spain,Wildfire,Forest fire,2009
+Greece,Wildfire,Forest fire,2009
+Italy,Wildfire,Forest fire,2009
+Greece,Wildfire,Forest fire,2009
+Italy,Flood,Riverine flood,2009
+Italy,Extreme temperature,Cold wave,2009
+Portugal,Flood,Riverine flood,2010
+Spain,Storm,Extra-tropical storm,2010
+Portugal,Storm,Extra-tropical storm,2010
+Italy,Flood,Riverine flood,2010
+Italy,Extreme temperature,Cold wave,2010
+Portugal,Extreme temperature,Cold wave,2010
+Greece,Flood,Riverine flood,2010
+Spain,Flood,Riverine flood,2010
+Italy,Storm,Storm (General),2010
+Italy,Extreme temperature,Heat wave,2011
+Italy,Flood,Flash flood,2011
+Italy,Flood,Flash flood,2011
+Spain,Flood,Riverine flood,2011
+Greece,Extreme temperature,Cold wave,2012
+Italy,Extreme temperature,Cold wave,2012
+Greece,Flood,Riverine flood,2012
+Spain,Wildfire,Wildfire (General),2012
+Spain,Flood,Riverine flood,2012
+Italy,Flood,Riverine flood,2012
+Portugal,Storm,Severe weather,2013
+Spain,Flood,Flash flood,2013
+Portugal,Wildfire,Forest fire,2013
+Italy,Flood,Riverine flood,2013
+Spain,Storm,Extra-tropical storm,2013
+Portugal,Storm,Extra-tropical storm,2013
+Spain,Storm,Storm (General),2014
+Portugal,Storm,Storm (General),2014
+Italy,Flood,Flash flood,2014
+Italy,Flood,Riverine flood,2014
+Portugal,Storm,Extra-tropical storm,2014
+Italy,Flood,Flash flood,2014
+Greece,Flood,Flash flood,2014
+Italy,Flood,Flash flood,2014
+Italy,Storm,Lightning/Thunderstorms,2014
+Greece,Flood,Riverine flood,2015
+Italy,Storm,Severe weather,2015
+Greece,Flood,Flood (General),2015
+Spain,Flood,Flash flood,2015
+Italy,Flood,Flash flood,2015
+Spain,Flood,Flash flood,2015
+Italy,Flood,Flash flood,2015
+Portugal,Flood,Flash flood,2015
+Italy,Flood,Flash flood,2015
+Portugal,Wildfire,Forest fire,2016
+Greece,Flood,Flood (General),2016
+Italy,Flood,Riverine flood,2016
+Spain,Flood,Flash flood,2016
+Greece,Extreme temperature,Severe winter conditions,2017
+Portugal,Wildfire,Forest fire,2017
+Spain,Wildfire,Forest fire,2017
+Italy,Storm,Severe weather,2017
+Italy,Storm,Lightning/Thunderstorms,2017
+Spain,Wildfire,Forest fire,2017
+Portugal,Wildfire,Forest fire,2017
+Greece,Flood,Flash flood,2017
+Italy,Flood,Riverine flood,2017
+Spain,Storm,Severe weather,2018
+Italy,Extreme temperature,Cold wave,2018
+Greece,Wildfire,Forest fire,2018
+Spain,Extreme temperature,Heat wave,2018
+Italy,Extreme temperature,Heat wave,2018
+Portugal,Extreme temperature,Heat wave,2018
+Spain,Wildfire,Forest fire,2018
+Portugal,Wildfire,Forest fire,2018
+Italy,Flood,Flash flood,2018
+Spain,Flood,Flood (General),2018
+Portugal,Storm,Tropical cyclone,2018
+Italy,Storm,Extra-tropical storm,2018
+Spain,Flood,Riverine flood,2019
+Spain,Storm,Severe weather,2019
+Italy,Flood,Flood (General),2019
+Spain,Extreme temperature,Heat wave,2019
+Italy,Extreme temperature,Heat wave,2019
+Spain,Flood,Flash flood,2019
+Greece,Storm,Tornado,2019
+Spain,Flood,Flood (General),2019
+Spain,Flood,Flood (General),2019
+Spain,Storm,Extra-tropical storm,2019
+Italy,Storm,Extra-tropical storm,2019
+Italy,Storm,Severe weather,2019
+Italy,Storm,Severe weather,2019
+Spain,Storm,Extra-tropical storm,2019
+Portugal,Storm,Extra-tropical storm,2019
+Spain,Storm,Extra-tropical storm,2020
+Italy,Storm,Extra-tropical storm,2020
+Greece,Flood,Flood (General),2020
+Italy,Storm,Severe weather,2020
+Italy,Storm,Storm (General),2020
+Greece,Flood,Flash flood,2020
+Italy,Flood,Flash flood,2020
+Italy,Flood,Flood (General),2020
+Italy,Flood,Flood (General),2020
+Spain,Storm,Blizzard/Winter storm,2021
+Italy,Flood,Flood (General),2021
+Italy,Wildfire,Wildfire (General),2021
+Greece,Wildfire,Forest fire,2021
+Spain,Flood,Flash flood,2021
+Spain,Flood,Flood (General),2021
+Spain,Wildfire,Forest fire,2022
+Italy,Glacial lake outburst flood,Glacial lake outburst flood,2022
+Greece,Wildfire,Wildfire (General),2022
+Portugal,Wildfire,Wildfire (General),2022
+Spain,Extreme temperature,Heat wave,2022
+Greece,Extreme temperature,Heat wave,2022
+Italy,Extreme temperature,Heat wave,2022
+Portugal,Extreme temperature,Heat wave,2022
+Italy,Storm,Severe weather,2022
